@@ -1,5 +1,13 @@
 ###
 
+GET http://localhost:3000/books/
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InJhaHVsMTIzIiwiaWF0IjoxNjYzMDQ5MTIyfQ.M8Ki4a-oXKmvpwnNc15zcMobRP1gtQCiCpbxa9c1lko
+
+
+
+
+###
+
 POST http://localhost:3000/users/
 Content-Type: application/json
 
